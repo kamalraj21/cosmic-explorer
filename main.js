@@ -1,4 +1,3 @@
-
 let scene, camera, renderer, controls, raycaster, mouse;
 let planets = {};
 let score = 0;
